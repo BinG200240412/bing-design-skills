@@ -1,0 +1,4 @@
+interface:
+  display_name: "灰色手绘面型图标"
+  short_description: "生成 #41403D 灰色实心面型图标，保留轻微手绘歪扭并导出 SVG"
+  default_prompt: "用 $handcut-solid-icons 为指定主题设计一枚 #41403D 灰色实心面型图标，保持清晰边缘和轻微手绘歪扭，并交付 SVG。"

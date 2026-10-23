@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI—COPY—CODE—FIGMA"
+  short_description: "Export original Figma assets and reproduce grouped layouts in SwiftUI."
+  default_prompt: "Use $ui-copy-code-figma to export the original assets first, preserve Figma groups, and reproduce this node exactly in my SwiftUI app."
